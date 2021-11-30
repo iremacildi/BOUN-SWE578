@@ -17,10 +17,12 @@ WebID : https://iremacildi.solidcommunity.net/profile/card#me
 3. inrupt/vocab-common-rdf
 
 Use npm to install
+
 npm install @inrupt/solid-client @inrupt/solid-client-authn-browser @inrupt/vocab-common-rdf
 
 ## Parcel Library
 1. parcel-bundler
 
 Use npm to install
+
 npm install parcel-bundler
